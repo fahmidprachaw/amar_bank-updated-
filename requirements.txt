@@ -1,0 +1,15 @@
+asgiref
+certifi
+crispy-bootstrap5
+distlib
+Django
+django-environ
+filelock
+pillow
+pipenv
+platformdirs
+psycopg2
+setuptools
+sqlparse
+tzdata
+virtualenv
