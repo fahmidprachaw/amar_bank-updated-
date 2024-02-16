@@ -1,6 +1,5 @@
 asgiref
 certifi
-crispy-bootstrap5
 distlib
 Django
 django-environ
